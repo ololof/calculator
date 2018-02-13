@@ -1,0 +1,6 @@
+Сalculator is designed on MVC pattern.
+Model class is responsible for the logic of work
+Main class is responsible for displaying
+Controller binds these classes
+Validation of the entered data is implemented in the Model class
+ModelTests class contains tests that check for errors when calling Model class methods
